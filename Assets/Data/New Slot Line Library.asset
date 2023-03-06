@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d414c59c1666de4e8add9bec02da785, type: 3}
+  m_Name: New Slot Line Library
+  m_EditorClassIdentifier: 
+  lines:
+  - pattern: 11111
+  - pattern: 00000
+  - pattern: 22222
+  - pattern: 01210
+  - pattern: 21012
+  - pattern: 00100
+  - pattern: 22122
+  - pattern: 12221
+  - pattern: 10001
+  - pattern: 10101
+  - pattern: 12121
+  - pattern: 01010
+  - pattern: 21212
+  - pattern: 11011
+  - pattern: 11211
+  - pattern: 01110
+  - pattern: 21112
+  - pattern: 01222
+  - pattern: 21000
+  - pattern: 02020
+  - pattern: 20202
+  - pattern: 01110
+  - pattern: 20002
+  - pattern: 00200
+  - pattern: 22022
+  - pattern: 00122
+  - pattern: 22100
+  - pattern: 12101
+  - pattern: 10121
+  - pattern: 10201
